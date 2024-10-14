@@ -12,7 +12,12 @@ Achtung die datei muss in den .ssh ordner in dem ordner der mit git versioniert 
 git------------
 
 git init
+git config --global --edit
 github erstellen auf der website
-git@github.com:faradii/php_repo.git 
+git remote add origin git@github.com:faradii/php.git
+							oder git remote set-url origin git@github.com:faradii/php.git
+git branch -M main
+git add .
+git commit -m "first commit"
+git push -u origin main
 
-Achtung

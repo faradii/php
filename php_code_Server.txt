@@ -1,0 +1,9 @@
+1.php umgebungsveriable erstellen
+2.geh zum Ordner wo sich die index.php befindet um hier den apache server zu starten
+3.powershell: php -S localhost:8000
+4.Browser aufrufen localhost:8000
+5.favicon.ico erstellen und in den ordner legen (browser icon)
+
+
+git
+ git@github.com:faradii/php_repo.git 

@@ -1,0 +1,11 @@
+<?php 
+
+function lieblingsFunktion( &$zahl ){
+$zahl = $zahl + 1;
+}
+
+$Variable = 5
+einsDazu( $variable );
+echo $variable // diesmal ergibt die Ausgabe 6 (nicht 5)
+
+?>

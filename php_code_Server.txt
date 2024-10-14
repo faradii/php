@@ -5,5 +5,14 @@
 5.favicon.ico erstellen und in den ordner legen (browser icon)
 
 
-git
- git@github.com:faradii/php_repo.git 
+powershell:
+ssh-keygen 
+
+Achtung die datei muss in den .ssh ordner in dem ordner der mit git versioniert ist ,also verschiebe es da rein oder gib gleich die richige stelle bei der erstellung des ssh-keygen befehls ein
+git------------
+
+git init
+github erstellen auf der website
+git@github.com:faradii/php_repo.git 
+
+Achtung
